@@ -1,7 +1,7 @@
 
-=========================================================
+==============================
  🛒 E-Commerce Catalog with Nested Document Structure
-=========================================================
+==============================
 
 📘 Overview:
 This script demonstrates how to build an E-Commerce catalog
